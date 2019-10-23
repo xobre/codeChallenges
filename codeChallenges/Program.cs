@@ -6,7 +6,7 @@ namespace codeChallenges
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
